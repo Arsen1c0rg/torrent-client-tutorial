@@ -1,0 +1,2 @@
+1. why nodejs doesnt support 64-bit buffer?
+2. what is needed to store this?
